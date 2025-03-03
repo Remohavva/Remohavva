@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Remohavva Ramanujam
-- 👀 I’m interested in App Development Front End and Back End
+- 👀 I’m interested in Development Front End and Back End
 - 🌱 I’m currently learning Computer Science Engineering 
 - 💞️ I’m looking to collaborate on Developing Topics
 - 📫 How to reach me ramanujamishappy@gmail.com
