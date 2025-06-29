@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rmanujam and I'm a CS Student, from Hyderabad,IN</h2>
+<h2 align="left">Hi 👋! My name is Rmanujam and I'm a CS Student</h2>
 
 ###
 
