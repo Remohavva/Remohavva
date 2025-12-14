@@ -24,7 +24,10 @@
   <img width="12" />
 </div>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Remohavva/Remohavva/output/github-snake-valo.svg" />
+  
+  <img src="https://raw.githubusercontent.com/Remohavva/Remohavva/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+
 
 
