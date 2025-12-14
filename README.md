@@ -22,6 +22,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+
+  ## 🎧 Now Playing
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xr7afrmlreegify44myyj6qroe?si=7290837f3b66418f&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117" />
+</p>
+
 </div>
 <p align="center">
   
